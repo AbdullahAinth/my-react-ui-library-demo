@@ -520,7 +520,7 @@ function AppContent() {
               <IconButton size="medium" color="danger">🗑️</IconButton>
             </Tooltip>
             <Tooltip title="This is some descriptive text about the info icon." placement="top">
-              <span>ⓘ Info Icon</span> {/* Simple span for text tooltip */}
+              <span>ⓘ Info Icon</span>
             </Tooltip>
           </Stack>
           <p style={{ marginTop: theme.spacing.medium, color: theme.colors.textSecondary }}>
